@@ -1,0 +1,5 @@
+slug: fizzbuzz
+title: "FizzBuzz with a twist"
+language: python
+version: 1
+time_cap_ms: 900000
